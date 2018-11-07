@@ -2,40 +2,63 @@
   "quotes": [
     {
       "id": 1,
-      "quote": "Don't count the days, make the days count.",
-      "likes": 1,
-      "author": "Mike Tyson"
-    },
-    {
-      "id": 2,
       "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "likes": 1,
+      "likes": 28,
       "author": "Collin Powell"
     },
     {
-      "id": 3,
+      "id": 2,
       "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
-      "likes": 1,
+      "likes": 27,
       "author": "Benjamin Franklin"
     },
     {
-      "id": 4,
+      "id": 3,
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "likes": 1,
+      "likes": 32,
       "author": "Confucius"
     },
     {
-      "id": 5 ,
+      "id": 4,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "likes": 1,
+      "likes": 40,
       "author": "Winston Churchhill"
     },
     {
-      "id": 6,
-      "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
-      "likes": 1,
-      "author": "Newt Gingrich"
+      "quote": "It dont always gotta be like that but sometimes it do",
+      "likes": 0,
+      "author": "Christofus S Stolfius",
+      "id": 5
+    },
+    {
+      "quote": "TRUMP DADDY PLS OMG",
+      "likes": 3,
+      "author": "Mike",
+      "id": 6
+    },
+    {
+      "quote": "I AM GOD",
+      "likes": 2,
+      "author": "Raj",
+      "id": 7
+    },
+    {
+      "quote": "My feet smell",
+      "likes": 4,
+      "author": "Raddy",
+      "id": 8
+    },
+    {
+      "quote": "What have you've ever done for me?",
+      "likes": 7,
+      "author": "Juan",
+      "id": 9
+    },
+    {
+      "quote": "I'm a smexy beast",
+      "likes": 10,
+      "author": "Thomas",
+      "id": 10
     }
-
   ]
 }
