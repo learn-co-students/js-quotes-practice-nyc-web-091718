@@ -25,17 +25,34 @@
       "author": "Confucius"
     },
     {
-      "id": 5 ,
+      "id": 5,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "likes": 1,
       "author": "Winston Churchhill"
     },
     {
-      "id": 6,
-      "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
-      "likes": 1,
-      "author": "Newt Gingrich"
+      "quote": "Gonna get through this",
+      "author": "Jan M",
+      "likes": 0,
+      "id": 8
+    },
+    {
+      "quote": "Hello there. I will do this!",
+      "author": "Devon Darrow",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "quote": "Gonna get through this",
+      "author": "Devon Darrow",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "quote": "test",
+      "author": "test",
+      "likes": 16,
+      "id": 11
     }
-
   ]
 }
