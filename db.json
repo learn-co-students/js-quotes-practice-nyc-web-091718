@@ -3,20 +3,8 @@
     {
       "id": 1,
       "quote": "Don't count the days, make the days count.",
-      "likes": 1,
+      "likes": 6,
       "author": "Mike Tyson"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "likes": 1,
-      "author": "Collin Powell"
-    },
-    {
-      "id": 3,
-      "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
-      "likes": 1,
-      "author": "Benjamin Franklin"
     },
     {
       "id": 4,
@@ -25,7 +13,7 @@
       "author": "Confucius"
     },
     {
-      "id": 5 ,
+      "id": 5,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "likes": 1,
       "author": "Winston Churchhill"
@@ -35,7 +23,42 @@
       "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
       "likes": 1,
       "author": "Newt Gingrich"
+    },
+    {
+      "quote": "We're just two lost souls swimming in a fishbowl",
+      "likes": 2,
+      "author": "Roger Waters",
+      "id": 7
+    },
+    {
+      "quote": "We're just two lost souls swimming in a fishbowl",
+      "likes": 0,
+      "author": "Roger Waters",
+      "id": 8
+    },
+    {
+      "quote": "We're just two lost souls swimming in a fishbowl",
+      "likes": 1,
+      "author": "Roger Waters",
+      "id": 9
+    },
+    {
+      "quote": "The answer is blowing in the wind",
+      "likes": 2,
+      "author": "Bob Dylan",
+      "id": 10
+    },
+    {
+      "quote": "Why is a raven like a writing desk",
+      "likes": 6,
+      "author": "Lewis Carroll",
+      "id": 11
+    },
+    {
+      "quote": "To be or not to be",
+      "likes": 5,
+      "author": "Shakespeare",
+      "id": 12
     }
-
   ]
 }
